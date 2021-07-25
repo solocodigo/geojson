@@ -15,7 +15,7 @@
         "equip_b_tiene_interes": "true",
         "acc_id": "1",
         "equip_b_acceso_modo": "",
-        "arbol_nombre": "Eucalipto de Cepeda",
+        "arbol_nombre": "Hospital Gchu",
         "atr_gr_tiene_q": "true",
         "estado_id": "1",
         "equip_a_observaciones": "",
@@ -29,8 +29,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.036913260553563,
-          40.45697141162891
+          -33.010074411660945, 
+          -58.53303386840826
         ]
       }
     },
@@ -48,7 +48,7 @@
         "equip_b_tiene_interes": "true",
         "acc_id": "1",
         "equip_b_acceso_modo": "",
-        "arbol_nombre": "Casta?o de Monsagro",
+        "arbol_nombre": "Escuela N°69",
         "atr_gr_tiene_q": "true",
         "estado_id": "1",
         "equip_a_observaciones": "",
@@ -62,8 +62,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.517470592498901,
-          40.353271714470125
+          -33.009714533675805, 
+          -58.53161766207115
         ]
       }
     }
