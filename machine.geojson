@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "equip_a_codigo": "BSFAS00001",
+        "equip_a_estado_fecha": "2010-03-04T23:00:00Z",
+        "atr_gr_id": "76222",
+        "equip_b_senalizacion_ext": "true",
+        "acc_dis_id": "2",
+        "atr_gr_tipo": "19",
+        "atr_gr_alerta": "false",
+        "cerramiento_id": "1",
+        "equip_b_tiene_interes": "true",
+        "acc_id": "1",
+        "equip_b_acceso_modo": "",
+        "arbol_nombre": "Maquina de Kraft",
+        "atr_gr_tiene_q": "true",
+        "estado_id": "1",
+        "equip_a_observaciones": "",
+        "atr_gr_visible": "true",
+        "cerramiento_material_id": "1",
+        "equip_b_superficie_aprox": "0",
+        "equip_b_nombre": "Eucalipto de Cepeda",
+        "equip_a_fecha_declaracion": "2000-07-10T22:00:00Z",
+        "especie_id": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.52137022207413, 
+          -33.00852220892754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "equip_a_codigo": "BSFAS00008",
+        "equip_a_estado_fecha": "2010-03-04T23:00:00Z",
+        "atr_gr_id": "76232",
+        "equip_b_senalizacion_ext": "true",
+        "acc_dis_id": "2",
+        "atr_gr_tipo": "19",
+        "atr_gr_alerta": "false",
+        "cerramiento_id": "1",
+        "equip_b_tiene_interes": "true",
+        "acc_id": "1",
+        "equip_b_acceso_modo": "",
+        "arbol_nombre": "Maquina de Preisz",
+        "atr_gr_tiene_q": "true",
+        "estado_id": "1",
+        "equip_a_observaciones": "",
+        "atr_gr_visible": "true",
+        "cerramiento_material_id": "1",
+        "equip_b_superficie_aprox": "0",
+        "equip_b_nombre": "Casta?o de Monsagro",
+        "equip_a_fecha_declaracion": "2000-07-10T22:00:00Z",
+        "especie_id": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.537009056925825,
+          -33.008474170220616
+        ]
+      }
+    }
+  ]
+}
